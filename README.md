@@ -1,2 +1,2 @@
 # Lab5
-A lab about coding a small language model (SML) 
+A c++ lab about coding a small language model (SML) using k-grams
