@@ -2,6 +2,7 @@
 #include <fstream>
 #include <map>
 #include <string>
+#include "training.h"
 
 using namespace std;
 
